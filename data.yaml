@@ -1,0 +1,5 @@
+names:
+  0: Plastic bag
+path: /content/Plastic_bag_Detection
+train: images/train
+val: images/train
